@@ -16,7 +16,7 @@ Marco Sánchez Contreras
 </author>
 
 <!--Personaliza la aplicacion y plataforma-->
-<preference name="orientation" value="partrait"/>
+<preference name="orientation" value="portrait"/>
 <preference name="target-device" value="universal"/>
 <preference name="fullscreen" value="true"/>
 <preference name="android-installLocation" value="auto"/>
